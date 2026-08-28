@@ -17,5 +17,3 @@ if not _G[ProtectionConfig.SecretKey] then
 end
 
 print(ProtectionConfig.HubName .. " Loaded Successfully!")
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KnorkzPH/KnorkzykiPH/refs/heads/main/Karinderya%20Toolkit"))()

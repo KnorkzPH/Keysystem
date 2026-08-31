@@ -1,6 +1,6 @@
 local ProtectionConfig = {
-    SecretKey = "0424",
-    HubName = "Karinderya"
+    SecretKey = "12312315151609",
+    HubName = "karinderyascript.obfuscated.txt"
 }
 
 print(ProtectionConfig.HubName .. " Loaded Successfully!")

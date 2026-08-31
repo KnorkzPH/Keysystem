@@ -6,4 +6,4 @@ local ProtectionConfig = {
 print(ProtectionConfig.HubName .. " Loaded Successfully!")
 
 task.wait(0.7)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KnorkzPH/KnorkzykiPH/refs/heads/main/Karinderya_Toolkit.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nyorkzgif/Idkwhatisthisfor-/refs/heads/main/Bloxfruit%20script"))()
